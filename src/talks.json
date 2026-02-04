@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the next features of JavaScript and how they will shape the future of web development."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Love Story",
+    "speakers": ["John Smith"],
+    "category": ["CSS", "Web Design"],
+    "duration": 60,
+    "description": "Learn how to create complex and responsive layouts with ease using CSS Grid and Flexbox."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Emily White", "David Green"],
+    "category": ["Node.js", "APIs", "Backend"],
+    "duration": 60,
+    "description": "An in-depth look at best practices for building scalable and maintainable APIs with Node.js."
+  },
+  {
+    "title": "State Management in React",
+    "speakers": ["Sarah Brown"],
+    "category": ["React", "JavaScript"],
+    "duration": 60,
+    "description": "A comprehensive overview of different state management solutions in React, from Context to Redux."
+  },
+  {
+    "title": "Web Performance Optimization",
+    "speakers": ["Michael Black"],
+    "category": ["Web Performance", "Frontend"],
+    "duration": 60,
+    "description": "Learn how to make your websites faster and more efficient with the latest web performance optimization techniques."
+  },
+  {
+    "title": "Introduction to Machine Learning with TensorFlow.js",
+    "speakers": ["Chris Blue", "Jessica Orange"],
+    "category": ["Machine Learning", "TensorFlow.js", "JavaScript"],
+    "duration": 60,
+    "description": "Get started with machine learning in the browser with this introduction to TensorFlow.js."
+  }
+]
